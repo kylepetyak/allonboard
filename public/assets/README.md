@@ -29,3 +29,4 @@ Once uploaded, reference images like this:
 ```tsx
 <Image src="/assets/logo.png" alt="All On Board Project" width={200} height={50} />
 ```
+<img width="500" height="500" alt="All On Board Project Logo" src="https://github.com/user-attachments/assets/a796a9b5-cfe5-45af-b9f4-ce7dea57cfd1" />
